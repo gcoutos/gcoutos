@@ -6,4 +6,4 @@
 
 [![Gcoutos's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcoutos)](https://github.com/gcoutos/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutosa&layout=compact)](https://github.com/gcoutos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutos&layout=compact)](https://github.com/gcoutos/github-readme-stats)
