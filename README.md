@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gcoutos
-- 👀 I’m interested in Data Science Python!
+- 👀 I’m interested in Data Science with Python!
 - 🌱 I’m currently learning Data Science with Python ♥️!
 - 💞️ I’m looking to collaborate on data science projects!
 - 📫 How to reach me: gcoutos95@gmail.com
