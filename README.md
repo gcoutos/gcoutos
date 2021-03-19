@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Gcoutos's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcoutos)](https://github.com/gcoutos/github-readme-stats)
+[![Gcoutos's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcoutos)](https://github.com/gcoutos/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutos)](https://github.com/gcoutos/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcoutos)](https://github.com/gcoutos/github-readme-stats)
+
